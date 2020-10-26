@@ -37,7 +37,7 @@
 - Шаблоны проектирования
   - Singleton
   - Observer
-  - Factory Method
+  - Factory
   - Strategy
   - Facade
   - Adapter
