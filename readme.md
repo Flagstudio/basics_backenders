@@ -65,6 +65,17 @@
 
 - Resources
 
+### WordPress
+
+- Структура темы
+- Структура БД
+- Custom Post Types
+- Advanced Custom Fields (+ ACF local json)
+- Таксономии
+- Мета-данные
+- Хуки, фильтры
+- wp-query
+
 ### Git
 
   - Настройка игнорирования
