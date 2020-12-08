@@ -99,6 +99,7 @@
 - Знать что такое volume и как его можно прокинуть в контейнер
 - Знать как прокинуть порты в контейнер
 - Знать синтаксис Docker Compose и понимать что это такое. ПОнимать что такое службы Compose
+- Уметь обратиться из одного контейнера docker-compose к другому (через Compose DNS)
 - Уметь работать со службами Compose: up, ps, restart, down, logs и тд
 
 ### Linux
@@ -132,6 +133,11 @@
 - Nova documentation [ENG] https://nova.laravel.com/docs
   - Раздел Resources
 
+### WordPress ACF
+
+- Видео на русском для быстрого старта https://youtu.be
+- Дока на русском http://acfwp.ru/category/documentation/
+- Официальная дока https://www.advancedcustomfields.com/resources/
 
 ### Базы данных
 
