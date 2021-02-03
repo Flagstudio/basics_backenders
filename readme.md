@@ -115,18 +115,26 @@
 
 ### PHP
 
-- Laracasts php for beginners. https://laracasts.com/series/php-for-beginners
-- Laracasts php bits. https://laracasts.com/series/php-bits
-- Laracasts Solid in php. https://laracasts.com/series/solid-principles-in-php
+- Видеокурс [ENG]. Laracasts php for beginners. https://laracasts.com/series/php-for-beginners
+- Видеокурс [ENG]. Laracasts php bits. https://laracasts.com/series/php-bits
+- Видеокурс [ENG]. Laracasts Solid in php. https://laracasts.com/series/solid-principles-in-php
+- Паттерны программирования https://refactoring.guru/design-patterns
+- Книга "PHP 7. Наиболее полное руководство (3-е издание) - 2016" https://yadi.sk/i/jS1ZrskJAFmY6Q
 
 ### Laravel
 
-- Laravel documentation [ENG] https://laravel.com/docs/master
-- Видео по продвинутым фичам laravel - Laravel Advanced https://youtu.be/_z9nzEUgro4
-- Laravel from scratch. Видеокурс на Laracasts [ENG] http://laravelfromscratch.com
-- Канал в Telegram Laravel News https://t.me/laravelnews
+- Laravel официальная документация [ENG] https://laravel.com/docs/master
+- Видеокурс [ENG]. Laravel Advanced https://youtu.be/_z9nzEUgro4
+- Видеокурс [ENG]. Laravel from scratch http://laravelfromscratch.com
 - Чат Laravel Pro https://t.me/laravel_pro Можно быстро спросить и получить ответ на вопросы по Ларе
-- Nova documentation [ENG] https://nova.laravel.com/docs Все разделы.
+- Книги
+  - Laravel Up and running second edition https://yadi.sk/i/7ZCQEPgKmJKvgw
+  - Kelt Dockins - Design Patterns in PHP and Laravel - 2017 https://yadi.sk/i/0VuK7UozffP9bQ
+  - Full-Stack Vue.js 2 and Laravel 5 Bring the frontend and backend together with Vue, Vuex, and Laravel https://yadi.sk/i/MyU5aMZgC7wgpg
+
+### Базы данных
+
+  - "Базы данных". Видеокурс от mail.ru https://youtu.be/SfYaAQ9-RnE
 
 ### Laravel Nova
 
@@ -138,7 +146,3 @@
 - Видео на русском для быстрого старта https://youtu.be
 - Дока на русском http://acfwp.ru/category/documentation/
 - Официальная дока https://www.advancedcustomfields.com/resources/
-
-### Базы данных
-
-- "Базы данных". Видеокурс от mail.ru https://youtu.be/SfYaAQ9-RnE
