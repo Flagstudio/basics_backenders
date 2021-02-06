@@ -115,6 +115,22 @@
 
 ### PHP
 
+- Официальная дока PHP https://www.php.net/manual/en/langref.php
+  - Basic syntax
+  - Types
+  - Variables
+  - Constants
+  - Expressions
+  - Operators
+  - Control structures
+  - Functions
+  - Classes and objects
+  - Namespaces
+  - Errors
+  - Exceptions
+  - Attributes
+  - References explained
+  - Predefined variables
 - Видеокурс [ENG]. Laracasts php for beginners. https://laracasts.com/series/php-for-beginners
 - Видеокурс [ENG]. Laracasts php bits. https://laracasts.com/series/php-bits
 - Видеокурс [ENG]. Laracasts Solid in php. https://laracasts.com/series/solid-principles-in-php
@@ -135,7 +151,7 @@
 ### Базы данных
 
   - "Базы данных". Видеокурс от mail.ru https://youtube.com/playlist?list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj
-    - 
+    -
 
 ### Laravel Nova
 
