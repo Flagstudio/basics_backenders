@@ -134,7 +134,8 @@
 
 ### Базы данных
 
-  - "Базы данных". Видеокурс от mail.ru https://youtu.be/SfYaAQ9-RnE
+  - "Базы данных". Видеокурс от mail.ru https://youtube.com/playlist?list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj
+    - 
 
 ### Laravel Nova
 
