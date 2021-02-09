@@ -44,21 +44,7 @@
 
 ### Laravel
 
-- Routing
-- Controllers
-- Requests
-- Views
-- Validation
-- Blade templates
-- Collections
-- File Storage
-- Mail
-- Events
-- Helpers
-- Migration
-- Seeding
-- Eloquent Getting Started
-- Eloquent Relationships
+Расписать...
 
 
 ### Laravel Nova
@@ -140,6 +126,21 @@
 ### Laravel
 
 - Laravel официальная документация [ENG] https://laravel.com/docs/master
+  - Routing
+  - Controllers
+  - Requests
+  - Views
+  - Validation
+  - Blade templates
+  - Collections
+  - File Storage
+  - Mail
+  - Events
+  - Helpers
+  - Migration
+  - Seeding
+  - Eloquent Getting Started
+  - Eloquent Relationships
 - Видеокурс [ENG]. Laravel Advanced https://youtu.be/_z9nzEUgro4
 - Видеокурс [ENG]. Laravel from scratch http://laravelfromscratch.com
 - Чат Laravel Pro https://t.me/laravel_pro Можно быстро спросить и получить ответ на вопросы по Ларе
