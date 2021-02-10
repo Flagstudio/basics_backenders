@@ -5,17 +5,20 @@
 ### PHP
 
 - Типы данных, константы, суперглобальные переменные
+- Массивы и операции с ними
 - POST, GET и другие типы запросов
 - Области видимости
+- Классы и объекты. Модификаторы доступа
+- Замыкания
 - Static, Abstract классы
 - Interfaces
 - Traits
 - ключевые слова $this, self, static
 - Namespaces, Autoloading
+- Composer (install, update, require), Semver
 - Магические методы
-- Виды ошибок, различия (fatal, warning, notice, deprecated)
-- Exceptions
-- Консольные команды php (-m, --ini, -i и тд)
+- Виды ошибок, различия (fatal, warning, notice, deprecated). Exceptions
+- Конфигурация PHP и php-fpm, раширения PHP. Консольные команды PHP (-m, --ini, -i и тд)
 
 ### Реляционные СУБД
 
