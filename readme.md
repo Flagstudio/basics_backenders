@@ -144,7 +144,7 @@
   - Seeding
   - Eloquent Getting Started
   - Eloquent Relationships
-- Видеокурс [ENG]. Laravel Advanced https://youtu.be/_z9nzEUgro4
+- Видеокурс [ENG]. Laravel Advanced https://youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO
 - Видеокурс [ENG]. Laravel from scratch http://laravelfromscratch.com
 - Чат Laravel Pro https://t.me/laravel_pro Можно быстро спросить и получить ответ на вопросы по Ларе
 - Книги
